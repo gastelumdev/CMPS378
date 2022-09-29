@@ -1,0 +1,8 @@
+C:\Users\omarg\OneDrive\Documents\School\378\Quiz1\Quiz1\bin\Debug\Quiz1.exe.config
+C:\Users\omarg\OneDrive\Documents\School\378\Quiz1\Quiz1\bin\Debug\Quiz1.exe
+C:\Users\omarg\OneDrive\Documents\School\378\Quiz1\Quiz1\bin\Debug\Quiz1.pdb
+C:\Users\omarg\OneDrive\Documents\School\378\Quiz1\Quiz1\obj\Debug\Quiz1.csproj.AssemblyReference.cache
+C:\Users\omarg\OneDrive\Documents\School\378\Quiz1\Quiz1\obj\Debug\Quiz1.csproj.SuggestedBindingRedirects.cache
+C:\Users\omarg\OneDrive\Documents\School\378\Quiz1\Quiz1\obj\Debug\Quiz1.csproj.CoreCompileInputs.cache
+C:\Users\omarg\OneDrive\Documents\School\378\Quiz1\Quiz1\obj\Debug\Quiz1.exe
+C:\Users\omarg\OneDrive\Documents\School\378\Quiz1\Quiz1\obj\Debug\Quiz1.pdb
