@@ -1,0 +1,8 @@
+C:\Users\omarg\OneDrive\Documents\School\378\Midterm\midterm\midterm\bin\Debug\midterm.exe.config
+C:\Users\omarg\OneDrive\Documents\School\378\Midterm\midterm\midterm\bin\Debug\midterm.exe
+C:\Users\omarg\OneDrive\Documents\School\378\Midterm\midterm\midterm\bin\Debug\midterm.pdb
+C:\Users\omarg\OneDrive\Documents\School\378\Midterm\midterm\midterm\obj\Debug\midterm.csproj.AssemblyReference.cache
+C:\Users\omarg\OneDrive\Documents\School\378\Midterm\midterm\midterm\obj\Debug\midterm.csproj.SuggestedBindingRedirects.cache
+C:\Users\omarg\OneDrive\Documents\School\378\Midterm\midterm\midterm\obj\Debug\midterm.csproj.CoreCompileInputs.cache
+C:\Users\omarg\OneDrive\Documents\School\378\Midterm\midterm\midterm\obj\Debug\midterm.exe
+C:\Users\omarg\OneDrive\Documents\School\378\Midterm\midterm\midterm\obj\Debug\midterm.pdb
