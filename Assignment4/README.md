@@ -8,9 +8,9 @@ Along with the Windows Form classes for the GUI, there is a Shape Interface and 
 ## Output Sample
 The GUI app let the user select an shape from a dropdown. Based on the selection the appropriate type and number of labels and inputs are displayed for the user to enter their shape measurements. Also dispalyed upon selection is a button to display the results.
 #### Square
-![Selecting square shape from dropdown](https://github.com/gastelumdev/CMPS378/blob/main/Assignment4/images/square1.png)
-![Input measurements to inputs](https://github.com/gastelumdev/CMPS378/blob/main/Assignment4/images/square2.png)
-![CLick button to get output](https://github.com/gastelumdev/CMPS378/blob/main/Assignment4/images/square3.png)
+![Selecting square shape from dropdown](https://github.com/gastelumdev/CMPS378/blob/main/Assignment4/images/Square1.png)
+![Input measurements to inputs](https://github.com/gastelumdev/CMPS378/blob/main/Assignment4/images/Square2.png)
+![CLick button to get output](https://github.com/gastelumdev/CMPS378/blob/main/Assignment4/images/Square3.png)
 #### Rectangle
 ![Selecting rectangle shape from dropdown](https://github.com/gastelumdev/CMPS378/blob/main/Assignment4/images/rectangle1.png)
 ![Input measurements to inputs](https://github.com/gastelumdev/CMPS378/blob/main/Assignment4/images/rectangle2.png)
