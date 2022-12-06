@@ -30,5 +30,5 @@ The GUI app let the user select an shape from a dropdown. Based on the selection
 
 ## Error and Exception Handling
 Error and exception handling was implemented to ensure the inputs had the correct values going in. A try and catch block was implemented so that an Format Exception was caught in the case that the user entered a non numerical value. The input was then checked to ensure that the number was positive. In either scenario, an error is displayed and the user does not see any other output unless all the required outputs check out.
-![Error shown](/images/exceptionHandling.png)
-![Error shown](/images/errorHandling.png)
+![Error shown](https://github.com/gastelumdev/CMPS378/blob/main/Assignment4/images/exceptionHandling.png)
+![Error shown](https://github.com/gastelumdev/CMPS378/blob/main/Assignment4/images/errorHandling.png)
