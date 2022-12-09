@@ -1,0 +1,11 @@
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\bin\Debug\Assignment4_2.exe.config
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\bin\Debug\Assignment4_2.exe
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\bin\Debug\Assignment4_2.pdb
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\obj\Debug\Assignment4_2.csproj.AssemblyReference.cache
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\obj\Debug\Assignment4_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\obj\Debug\Assignment4_2.Properties.Resources.resources
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\obj\Debug\Assignment4_2.csproj.GenerateResource.cache
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\obj\Debug\Assignment4_2.csproj.CoreCompileInputs.cache
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\obj\Debug\Assignment4_2.exe
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\obj\Debug\Assignment4_2.pdb
+C:\Users\omarg\OneDrive\Documents\School\378\Assignment4_2\Assignment4_2\obj\Debug\Assignment4_2.Title.resources
